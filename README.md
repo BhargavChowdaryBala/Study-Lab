@@ -61,3 +61,4 @@ Frontend runs at `http://localhost:5173`.
 - **Frontend**: [Vercel](https://vercel.com) (Free Vite React SPA Hosting)
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for the complete free deployment guide.
+

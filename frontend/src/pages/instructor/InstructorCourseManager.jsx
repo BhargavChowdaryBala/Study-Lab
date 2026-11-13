@@ -492,6 +492,3 @@ export const InstructorCourseManager = () => {
   );
 };
 
-  );
-};
-
